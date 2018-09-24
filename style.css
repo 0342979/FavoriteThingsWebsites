@@ -17,6 +17,11 @@ img {
 }
 h1 {
     font-size: 90px;
-    font-family: Georgia;
-    color: 
+    font-family: "Bradley_Hand",cursive;
+    color: #D3DA39;
+}
+h2 {
+   color: #81E7AF;
+   font-size: 50px;
+   font-family: Comic Sans MS, Comic Sans, cursive;
 }
